@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/SenDa3/app/src/main/res/layout/activity_dang_nhap.xml" value="0.20416666666666666" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa-s/SenDa3/app/src/main/res/layout/activity_account.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa-s/SenDa3/app/src/main/res/layout/activity_dang_ky.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa-s/SenDa3/app/src/main/res/layout/activity_dang_nhap.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa-s/SenDa3/app/src/main/res/layout/activity_edit_info.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa-s/SenDa3/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa-s/SenDa3/app/src/main/res/layout/activity_trang_chu.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa-s/SenDa3/app/src/main/res/layout/detail_product.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa-s/SenDa3/app/src/main/res/layout/detail_product_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa-s/SenDa3/app/src/main/res/layout/detail_shopping_cart.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa-s/SenDa3/app/src/main/res/layout/edit_info.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa-s/SenDa3/app/src/main/res/layout/edit_thongtincanhan.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa-s/SenDa3/app/src/main/res/layout/fragment_account.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa-s/SenDa3/app/src/main/res/layout/fragment_cart.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa-s/SenDa3/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa-s/SenDa3/app/src/main/res/layout/fragment_home_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa-s/SenDa3/app/src/main/res/layout/fragment_location.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa-s/SenDa3/app/src/main/res/layout/list_product.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa-s/SenDa3/app/src/main/res/layout/list_product_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa-s/SenDa3/app/src/main/res/menu/search.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa/SenDa3/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa/SenDa3/app/src/main/res/layout/activity_trang_chu.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa/SenDa3/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa/SenDa3/app/src/main/res/menu/bottom_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa3/app/src/main/res/layout/activity_dang_ky.xml" value="0.264" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa3/app/src/main/res/layout/activity_dang_nhap.xml" value="0.4" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa3/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa3/app/src/main/res/layout/activity_trang_chu.xml" value="0.25416666666666665" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2703125" />
+        <entry key="..\:/LapTrinhDiDong/Projects/SenDa3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2703125" />
+        <entry key="..\:/SenDa3/app/src/main/res/layout/activity_account.xml" value="0.20416666666666666" />
+        <entry key="..\:/SenDa3/app/src/main/res/layout/activity_dang_ky.xml" value="0.20416666666666666" />
+        <entry key="..\:/SenDa3/app/src/main/res/layout/activity_edit_info.xml" value="0.22" />
+        <entry key="..\:/SenDa3/app/src/main/res/layout/detail_product.xml" value="0.20416666666666666" />
+        <entry key="..\:/SenDa3/app/src/main/res/layout/detail_product_admin.xml" value="0.20416666666666666" />
+        <entry key="..\:/SenDa3/app/src/main/res/layout/fragment_account.xml" value="0.20416666666666666" />
+        <entry key="..\:/SenDa3/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/SenDa3/app/src/main/res/layout/fragment_home_admin.xml" value="0.20416666666666666" />
+        <entry key="..\:/SenDa3/app/src/main/res/layout/fragment_location.xml" value="0.20416666666666666" />
+        <entry key="..\:/SenDa3/app/src/main/res/layout/list_product.xml" value="0.20416666666666666" />
+        <entry key="..\:/SenDa3/app/src/main/res/layout/list_product_admin.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/84792/Desktop/SenDa3/app/src/main/res/drawable/home.xml" value="0.3828125" />
+        <entry key="..\:/Users/84792/Desktop/SenDa3/app/src/main/res/drawable/rounded_corner.xml" value="0.3828125" />
+        <entry key="..\:/Users/84792/Desktop/SenDa3/app/src/main/res/layout/activity_trang_chu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/84792/Desktop/SenDa3/app/src/main/res/layout/detail_product.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/84792/Desktop/SenDa3/app/src/main/res/layout/fragment_account.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/84792/Desktop/SenDa3/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/84792/Desktop/SenDa3/app/src/main/res/layout/fragment_location.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/84792/Desktop/SenDa3/app/src/main/res/layout/list_product.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/84792/Desktop/SenDa3/app/src/main/res/menu/bottom_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/84792/Desktop/SenDa3/app/src/main/res/menu/search.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PILOT/Desktop/SenDa3/app/src/main/res/layout/activity_dang_nhap.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/PILOT/Desktop/SenDa3/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/PILOT/Desktop/SenDa3/app/src/main/res/layout/activity_trang_chu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/PILOT/Desktop/SenDa3/app/src/main/res/layout/detail_product.xml" value="0.264" />
+        <entry key="..\:/Users/PILOT/Desktop/SenDa3/app/src/main/res/layout/fragment_account.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/PILOT/Desktop/SenDa3/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/adr/SenDa3/app/src/main/res/drawable/rounded_corner.xml" value="0.14722222222222223" />
+        <entry key="..\:/adr/SenDa3/app/src/main/res/drawable/tron.xml" value="0.3828125" />
+        <entry key="..\:/adr/SenDa3/app/src/main/res/layout/activity_dang_nhap.xml" value="0.36666666666666664" />
+        <entry key="..\:/adr/SenDa3/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/adr/SenDa3/app/src/main/res/layout/activity_trang_chu.xml" value="0.36666666666666664" />
+        <entry key="..\:/adr/SenDa3/app/src/main/res/layout/fragment_account.xml" value="0.36666666666666664" />
+        <entry key="..\:/adr/SenDa3/app/src/main/res/layout/fragment_cart.xml" value="0.36666666666666664" />
+        <entry key="..\:/adr/SenDa3/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/adr/SenDa3/app/src/main/res/layout/fragment_location.xml" value="0.36666666666666664" />
+        <entry key="..\:/adr/SenDa3/app/src/main/res/menu/bottom_menu.xml" value="0.20520833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
